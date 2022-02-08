@@ -1,2 +1,2 @@
 # test
-This is a test repository for ptto.
+This is a test repository for Ptto.
